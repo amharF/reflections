@@ -1,0 +1,14 @@
+Question 1: What happens when you initialize a repository? Why do you need to do it?
+Answer: you create a .git respository that will start to collect meta data on file chnages
+
+Question 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: staging area is used as an intermediate reporsitory you push changes to before you go live/publish them
+
+Question 3: How can you use the staging area to make sure you have one commit per logical change?
+Answer: per change first use git add it to staging, then use git commit to add it to 
+
+Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer: when you want to create a totally different version or experimental version. Branches are offshoot of the original 
+
+Question 5: How do the diagrams help you visualize the branch structure?
+Answer: help you to understand at what stage a new branch was made and which commits are reachable from a particular branch
