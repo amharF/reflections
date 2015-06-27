@@ -6,3 +6,9 @@ Answer: So you have a degree of control over how your repository get authored, e
 
 Question 3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer: Fork: a GitHub clone of another GitHUb repository. Clone: a copy of a local or remote repository. Branch: a commit ofshoot of a master node in Git
+
+Question 4: What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer: This is the leading source of truth in case many changes are made by different collaborators
+
+Question 5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: I actually think there is no easier way to collaborate as Git is the sh*t
