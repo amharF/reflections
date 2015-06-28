@@ -12,3 +12,7 @@ Answer: This is the leading source of truth in case many changes are made by dif
 
 Question 5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: I actually think there is no easier way to collaborate as Git is the sh*t
+
+Question 6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Answer: when your update contains significant changes that are either too divergent or experimental to include in the master branch without checking with other collaborators first
